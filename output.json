@@ -1,0 +1,1 @@
+[{"orig_shape": [885, 590], "path": "D:\\helmet\\PPL00299.jpg", "probs": null, "save_dir": "runs\\detect\\predict37", "speed": {"preprocess": 12.301206588745117, "inference": 416.03946685791016, "postprocess": 17.27008819580078}}]
